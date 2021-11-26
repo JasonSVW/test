@@ -1,3 +1,4 @@
 1 commit
 3 remote commit
+5 stash file changes
 6 remote commit 2
